@@ -7,8 +7,8 @@ on a Linux machine.
 
 ### Leftmost button on second row.
 
-The leftmost button on row 2 is engraved with a '§' and a '±' as
-shifted value.
+The leftmost button on row 2 is engraved with '§' and '±' as shifted
+value.
 
 But the keyboard generates '<' and '>'.
 
