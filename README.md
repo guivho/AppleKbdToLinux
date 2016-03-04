@@ -7,26 +7,28 @@ on a Linux machine.
 
 ### Leftmost button on second row.
 
-The leftmost button on row 2 is engraved with a § and a plusminus as
-shifted value. On my Linux the keyboard generates < and >.
+The leftmost button on row 2 is engraved with a '§' and a '±' as
+shifted value.
 
-My personal favorite mapping is § and € for that key.
+But the keyboard generates '<' and '>'.
+
+My personal favorite mapping is '§' and '€' for that key.
 
 ### Function keys
 
 The function keys are only available when pressed together with the
 'fn' key. Without this modifier, they are assigned to the engraved
-functionality such as Volume Up and Down.
+functionality such as 'XF86AudioLowerVolume' and
+'XF86AudioRaiseVolume'.
 
 I like to switch this. I want the function keys to be available
-without the fn modifier and I also want F13 till F19.
+without the fn modifier and I also want to use F13 till F19.
 
 ## Usage
 
 The .xmodmaprc file in this repo performs this remapping for me.
 
-You need this file to be read by xmodmap at the startup of your
-session:
+This file must be read by xmodmap at the startup of the session:
 
 `xmodmap path_to_this/.xmodmaprc`
 
