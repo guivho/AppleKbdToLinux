@@ -61,3 +61,5 @@ Some links that I found helpful when preparing this .xmodmaprc:
   manpage](http://manpages.ubuntu.com/manpages/trusty/man1/xev.1.html)
 
 - [xmodmap manpage] (http://www.xfree86.org/4.2.0/xmodmap.1.html)
+
+
